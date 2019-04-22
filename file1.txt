@@ -1,3 +1,5 @@
 Cambios archivo file1.txt
 
 Soy el programador 2 y modifico el fichero file1.txt
+
+Modificamos el fichero file1
